@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Galaxy-w/gulu/issues"
   },
-  "homepage": "https://github.com/Galaxy-w/gulu#readme"
+  "homepage": "https://github.com/Galaxy-w/gulu#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
 }
